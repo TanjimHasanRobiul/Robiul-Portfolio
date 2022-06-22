@@ -1,0 +1,28 @@
+.wlc {
+    color: darkmagenta;
+    font-size: 40px;
+}
+
+section {
+    display: flex;
+}
+
+
+.h-name {
+    color: darkblue;
+
+}
+
+.wlc-2 {
+    font-size: 40px;
+}
+
+.blog {
+    width: 50%;
+    padding: 20px;
+
+}
+
+.blog img {
+    width: 80%;
+}
